@@ -1,0 +1,1 @@
+document.getElementById("phoneNumber").innerHTML = "<a href='tel:5092178358' class='text-dark text-decoration-none'>(509) 217-8358</a>";
